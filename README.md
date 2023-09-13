@@ -1,2 +1,1 @@
-# pro
-pro
+before and after intialization of array
